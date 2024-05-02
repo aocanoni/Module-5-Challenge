@@ -1,7 +1,9 @@
 # Module-5-Challenge
 UCI data analytics bootcamp module 5 challenge
+
 The folder "Starter_Code/Pymaceuticals" includes all the necessary files for my assignment submission.
-- The original folder is "Starter_Code" which leads to "Pymaceuticals", and within that folder is a 'data' folder and a 'pymaceuticals_AshleyCanonizado.ipynb' jupyter notebook.
+
+The original folder is "Starter_Code" which leads to "Pymaceuticals", and within that folder is a 'data' folder and a 'pymaceuticals_AshleyCanonizado.ipynb' jupyter notebook.
 
 - 'data' includes a 'Mouse_metadata.csv' file and a 'Study_results.csv' file which are the csv data files used for the assignment
 - The 'pymaceuticals_AshleyCanonizado.ipynb' file is where I completed all of my work- I started off of the originally provided 'Starter_Code' file and input all of my code and outputs and renamed it.
